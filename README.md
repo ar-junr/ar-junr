@@ -3,6 +3,7 @@
 </h1>
 <h3 align="center">I'm a full stack developer who is very passionate about coding and problem solving and building softwares</h3>
 <hr/>
+  
 - 🌱 I’m currently learning Python/React Full stack Web Development
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/arjunr2001](www.linkedin.com/in/arjunr2001)
